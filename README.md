@@ -1,7 +1,7 @@
 Pong
 ====
 
-![Pong](Screenshot.jpg)
+![Pong](https://raw.githubusercontent.com/ramsun/Pong/master/Screenshot.JPG)
 
 This is my first python project, so I thought I would make a pong game. Feel free to use the code however you want.  
 
